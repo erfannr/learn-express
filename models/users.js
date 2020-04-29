@@ -1,27 +1,27 @@
 const users = [
     {
         id:1,
-        name:"cilok daging",
+        name:"adam",
         address:"jakarta",
     },
     {
         id:2,
-        name:"cilok kuah",
+        name:"albi",
         address:"bandung",
     },
     {
         id:3,
-        name:"cilok pedes",
+        name:"erfan",
         address:"surabaya",
     },
     {
         id:4,
-        name:"cilok gajahan",
-        address:"jogjakarta",
+        name:"doni",
+        address:"malang",
     },
     {
         id:5,
-        name:"cilok sd",
+        name:"farhan",
         address:"bogor",
     },
 ]
